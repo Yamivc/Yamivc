@@ -2,7 +2,6 @@
 <h3 align="center">a full stack web development student who also proudly identifies as a stubborn artist with a creative mind.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamizs" alt="yamizs" /></a> </p>
 
 - 🔭 I’m currently working on [Lockedu](https://github.com/MiguelGC97/projectLockEdu)
 
