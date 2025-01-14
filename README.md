@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yami</h1>
 <h3 align="center">a full stack web development student who also proudly identifies as a stubborn artist with a creative mind.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamizs&label=Profile%20views&color=0e75b6&style=flat" alt="yamizs" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamizs)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamizs" alt="yamizs" /></a> </p>
 
