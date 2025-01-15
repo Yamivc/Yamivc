@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yami</h1>
-<h3 align="center">a full stack web development student who also proudly identifies as a stubborn artist with a creative mind.</h3>
+<h3 align="center">A full stack web development student who also proudly identifies as a stubborn artist with a creative mind.</h3>
 
 
 
