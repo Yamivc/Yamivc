@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lockedu](https://github.com/MiguelGC97/projectLockEdu)
 
-- 🌱 I’m currently learning **python, angular, react, node.js, express**
+- 🌱 I’m currently learning **python, react, node.js, express**
 
 - 📫 How to reach me **yamihego99@gmail.com**
 
